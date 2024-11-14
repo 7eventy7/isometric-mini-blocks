@@ -1,6 +1,6 @@
 <div align="center">
-
-![alt text](cover.png)
+  
+![cover](images/gallery/cover.png)
 
 [![GitHub stars](https://img.shields.io/github/stars/7eventy7/isometric-mini-blocks.svg?style=social&label=Star&maxAge=2592000)](https://github.com/7eventy7/isometric-mini-blocks/stargazers)
 [![Total Downloads](https://img.shields.io/github/downloads/7eventy7/isometric-mini-blocks/total.svg)](https://github.com/7eventy7/isometric-mini-blocks/releases)
@@ -15,7 +15,7 @@ A charming collection of isometric block icons created with the textures from th
 
 
 ## 🖼️ Icons Preview
-![alt text](sheet.png)
+![sheet](images/gallery/sheet.png)
 
 ## 🚀 Getting Started
 
