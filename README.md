@@ -19,10 +19,11 @@ A charming collection of isometric block icons created with the textures from th
 
 ## 🚀 Getting Started
 
-1. Head to releases and grab 
-2. Click on "Change Icon"
-3. Select any icon from the `launcher-icons` folder
-4. Apply and enjoy your custom instance icon!
+1. Head to the latest release
+2. Choose a desired desired resolution
+3. Download the desired resolution pack
+4. Store the folder in a safe place<br>
+> You can now reference the icons in supported Minecraft launchers or any other project!
 
 ## 📒 Credit
 
