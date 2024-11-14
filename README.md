@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/7eventy7/isometric-mini-blocks.svg?style=social&label=Star&maxAge=2592000)](https://github.com/7eventy7/isometric-mini-blocks/stargazers)
 [![Total Downloads](https://img.shields.io/github/downloads/7eventy7/isometric-mini-blocks/total.svg)](https://github.com/7eventy7/isometric-mini-blocks/releases)
-[![License](https://img.shields.io/github/license/7eventy7/isometric-mini-blocks.svg)](https://github.com/7eventy7/isometric-mini-blocks/blob/main/LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 A charming collection of isometric block icons created with the textures from the F8thful texture pack. Perfect for enhancing your Minecraft launcher experience or adding some unique customization to your creative projects.
 
